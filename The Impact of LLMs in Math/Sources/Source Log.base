@@ -1,0 +1,26 @@
+filters:
+  and:
+    - file.inFolder("Sources")
+    - file.ext == "md"
+    - note.source_entry == true
+formulas:
+  title: note.Document.asFile().asLink(note.Title)
+properties:
+  formula.title:
+    displayName: Title
+  note.Link:
+    displayName: Link
+  note.Description:
+    displayName: Description
+views:
+  - type: table
+    name: Source Log
+    order:
+      - formula.title
+      - Link
+      - Description
+    sort:
+      - property: formula.title
+        direction: ASC
+      - property: Description
+        direction: ASC

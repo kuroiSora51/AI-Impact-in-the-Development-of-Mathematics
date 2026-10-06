@@ -1,0 +1,16 @@
+# Temporary working files
+/tmp/
+*.tmp
+*.swp
+*.swo
+*~
+
+# macOS metadata
+.DS_Store
+._*
+.Spotlight-V100/
+.Trashes/
+
+# Obsidian configuration and local state
+.obsidian/
+.trash/
