@@ -9,6 +9,7 @@ Description: Massive project led by Terence Tao under the collaboration of milli
 <details>
 <summary>Navigate this collection</summary>
 
+- [Source Log](../Source%20Log.md)
 - [Home](../../../README.md)
 - [AI Impact in the Development of Mathematics](../../AI%20Impact%20in%20the%20Development%20of%20Mathematics.md)
 - [Summary](../Summary.md)

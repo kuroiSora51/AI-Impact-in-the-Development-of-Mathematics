@@ -1,6 +1,7 @@
 <details>
 <summary>Navigate this collection</summary>
 
+- [Source Log](Source%20Log.md)
 - [Home](../../README.md)
 - [AI Impact in the Development of Mathematics](../AI%20Impact%20in%20the%20Development%20of%20Mathematics.md)
 - [Summary](Summary.md)
@@ -26,7 +27,7 @@
 
 # Source Index
 
-Open the interactive log: [Source Log](Source%20Log.base).
+Open the [Source Log](Source%20Log.md) for descriptions, PDFs, and original source links. The [Obsidian log](Source%20Log.base) is also available for use in Obsidian.
 
 ## Sources
 

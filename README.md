@@ -6,6 +6,7 @@ A collection of sources and reflections on AI’s role in mathematics.
 
 ## Contents
 
+- [Source Log](The%20Impact%20of%20LLMs%20in%20Math/Sources/Source%20Log.md)
 - [AI Impact in the Development of Mathematics](The%20Impact%20of%20LLMs%20in%20Math/AI%20Impact%20in%20the%20Development%20of%20Mathematics.md)
 - [Summary](The%20Impact%20of%20LLMs%20in%20Math/Sources/Summary.md)
 - [Assignment Description](The%20Impact%20of%20LLMs%20in%20Math/Assignment%20Description.md)
